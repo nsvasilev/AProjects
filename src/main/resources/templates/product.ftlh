@@ -4,6 +4,6 @@
     <title>BUYSELL</title>
 </head>
 <body>
-Hello, new project!
+Hello, new !
 </body>
 </html>
