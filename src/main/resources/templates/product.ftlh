@@ -4,6 +4,6 @@
     <title>BUYSELL</title>
 </head>
 <body>
-Hello, bad morning
+Hello, bad day
 </body>
 </html>
